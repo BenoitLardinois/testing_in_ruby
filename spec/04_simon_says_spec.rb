@@ -51,6 +51,7 @@ describe "Simon says" do
   #     expect(start_of_word(s, 3)).to eq("abc")
   #   end
   # end
+  
 
   describe "first_word" do
     it "tells us the first word of 'Hello World' is 'Hello'" do
